@@ -1,0 +1,7 @@
+{
+  "name": "App Architect AI",
+  "description": "An intelligent assistant that consults on app ideas, refining functionality, design, and tech stacks before generating a master prompt for development.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
